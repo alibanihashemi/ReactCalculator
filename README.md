@@ -1,6 +1,6 @@
 # Simple React Calculator
 
-![Simple React Calculator Screenshot](https://url-to-your-screenshot.png)
+![Capture-calculator](https://github.com/alibanihashemi/ReactCalculator/assets/103768578/3a86fba7-c4ea-4849-a0b3-5d44f7780d5b)
 
 Simple React Calculator is a web application that provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
